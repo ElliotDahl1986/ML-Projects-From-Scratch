@@ -2,7 +2,7 @@ In this folder I collect projects where I explore various Machine learning algor
 
 ## Contains
 ### ANN: 
-A artificial neural network implemented from scratch. I learn the weights and biases through batch stochastic gradient descent. I test the ANN by identifying handwritten numbers (a classic data set found here http://yann.lecun.com/exdb/mnist/). 
+A artificial neural network implemented from scratch. I learn the weights and biases through batch stochastic gradient descent. I test the ANN by identifying handwritten numbers (a classic data set found here [Number data set](http://yann.lecun.com/exdb/mnist/)). 
 
 The backward propagation:
 <p align="center">
