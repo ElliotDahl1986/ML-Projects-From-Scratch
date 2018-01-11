@@ -21,3 +21,6 @@ Q-table update:
 <p align="center">
   <img width="423" alt="screen shot 2018-01-11 at 3 55 25 pm" src="https://user-images.githubusercontent.com/32745301/34849548-547c54b2-f6e8-11e7-8aa8-c8372e8fb186.png">
 </p>
+
+## Resources:
+[Excelent list of free, open source books on machine learning, statistics, data-mining, etc.](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
