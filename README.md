@@ -1,4 +1,4 @@
-In this folder I collect projects where I explore various Machine learning algorithms by building them myself. 
+In this folder I collect projects where I explore the mathematics behind various Machine learning algorithms by building them myself. 
 
 ## Contains
 ### ANN: 
