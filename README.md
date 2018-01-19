@@ -10,7 +10,7 @@ The backward propagation:
 </p>
 
 ### RL:
-Reinforcement learning implented from scratch. I investigate the use of combined modules having their own Q-table. I apply Gibbs policy improvement. I apply this to an environment containg various rewards.  
+Reinforcement learning implented from scratch. I investigate the use of combined modules having their own Q-table. I apply Gibbs policy improvement. I apply this to an environment containing various rewards.  
 
 Gibbs policy improvement:
 <p align="center">
