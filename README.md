@@ -1,15 +1,32 @@
-In this folder I collect projects where I explore the mathematics behind various machine learning algorithms by building them myself. 
+## ML-Projects-From-Scratch
 
-## Contains
-### ANN: 
-A artificial neural network implemented from scratch. I learn the weights and biases through batch stochastic gradient descent. I test the ANN by identifying handwritten numbers (a classic data set found here [Number data set](http://yann.lecun.com/exdb/mnist/)). 
+About
+=====
+In ML-Projects-From-Scratch I explore the mathematics behind various machine learning algorithms by building them myself. 
+
+Dependencies
+------------
+
+ML-Projects-From-Scratch is tested to work under Python 3
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [Scikit-learn](http://scikit-learn.org/stable/)
+
+Contains
+------------
+
+ANN:
+------------
+A artificial neural network implemented from scratch. I learn the weights and biases through batch gradient descent. I test the ANN by identifying handwritten numbers (a classic data set found here [Number data set](http://yann.lecun.com/exdb/mnist/)). 
 
 The backward propagation, 
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/32745301/34848820-dd8ea690-f6e5-11e7-88ce-a9e736082179.png">
 </p>
 
-### RL:
+RL:
+------------
 Reinforcement learning implented from scratch. I investigate the use of combined modules having their own Q-table. I apply Gibbs policy improvement. I apply this to an environment containing various rewards.  
 
 Gibbs policy improvement, 
@@ -23,7 +40,8 @@ Q-table update,
 </p>
 
 
-### Gaussian Process
+Gaussian Process:
+------------
 Gaussian process used to predict time-series data for motion movement. The hyper parameters are found by maximizing the log likelyhood function
 <p align="center">
 <img width="320" alt="screen shot 2018-02-22 at 4 18 33 pm" src="https://user-images.githubusercontent.com/32745301/36567668-cdd69f8c-17ec-11e8-93b5-42d49cc0e3ad.png">
@@ -42,4 +60,6 @@ I use steepest ascent to find the hyper parameters,
 
 
 ## Resources:
+ [Bishop, C. (2006). *Pattern Recognition and Machine Learning*. Springer-Verlag New York](http://www.springer.com/us/book/9780387310732)
+ 
 [Excelent list of free, open source books on machine learning, statistics, data-mining, etc.](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
