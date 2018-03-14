@@ -2,7 +2,7 @@
 
 About
 =====
-In ML-Projects-From-Scratch I explore the mathematics behind various machine learning algorithms by building them myself. 
+In ML-Projects-From-Scratch I explore the mathematics behind various machine learning algorithms by building them myself and doing some simple predictions. 
 
 Dependencies
 ------------
